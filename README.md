@@ -2,6 +2,10 @@
 C++ client-server file transfer application built with Winsock over TCP using a custom packet header supporting multiple sequential transfers. 
 
 
+# Youtube video including client/server code overview with demo
+
+https://youtu.be/_Y3NWa8Z8kM
+
 
 
 ## Overview
